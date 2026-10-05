@@ -1,0 +1,6 @@
+{
+  "name": "CineMagic",
+  "description": "AI Movie Studio: Turn your photo and script into full cinematic movies with AI scenes, direction, and dialogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

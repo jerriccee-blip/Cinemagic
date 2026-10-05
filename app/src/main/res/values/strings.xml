@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CineMagic</string>
+    <string name="tagline">AI Movie Studio</string>
+    <string name="create_movie">Create New Movie</string>
+    <string name="upload_photo">Upload Cast Photo</string>
+    <string name="script_prompt">Describe your scene or script</string>
+    <string name="generate_action">Generate Movie</string>
+    <string name="movie_gallery">My Movies</string>
+    <string name="play_movie">Play Movie</string>
+</resources>
